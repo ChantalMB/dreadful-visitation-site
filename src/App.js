@@ -216,7 +216,7 @@ class App extends React.Component {
         <p>I would also like to thank Dr. Matthew Davies and Dr Stephen Gadd from the <a href="https://www.layersoflondon.org/"><em>Layers of London</em> project</a> who generously shared the various shapefiles needed to create the map I made for this site representing 1665 London.</p>
         <p>Finally, I, of course, would like to thank my professor for the course which this project was made for, Dr. Lori Jones, for her extensive feedback and excellent teaching throughout this semester that allowed this project to take its final form.</p>
 
-        <h3>Data</em></h3>
+        <h3>Data</h3>
 
         <p><b>Note:</b> All data and notes on data processing for this project can be located <a href="https://github.com/ChantalMB/HIST3907-dreadful-visitation">here</a>, and the repository for this website is <a href="https://github.com/ChantalMB/dreadful-visitation-site">here</a>.</p>
 
@@ -258,7 +258,7 @@ class App extends React.Component {
 
 
         </section>
-        
+
       </div>
     );
   }
