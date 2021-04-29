@@ -1,0 +1,101 @@
+.App {
+}
+
+#intro {
+  text-align: left;
+  margin: 15px 120px 35px 120px;
+}
+
+#main, #bib {
+  margin: 15px 120px 15px 120px;
+}
+
+blockquote {
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+
+iframe {
+  width: 100%;
+  height: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+
+#maps {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#barchart {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+
+}
+
+#slider {
+  margin: 0px 90px 30px 90px;
+  text-align: center;
+}
+
+figure {
+  float: left;
+  margin: 15px 35px 15px 0px;
+}
+
+figcaption {
+  font-size: 13px;
+  line-height: 17px;
+  text-align: left;
+  margin: 0px 0px 0px 9px;
+
+}
+
+#searchersImg {
+  height: 650px;
+  width: 500px;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin: 1em;
+}
+
+h2 {
+  text-transform: uppercase;
+  padding: 0px 0px 8px;
+  margin: 0px 0px 16px;
+  border-bottom: 3px solid rgba(0,0,0,1);
+}
+
+.chart-container {
+  margin-bottom: 40px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.grid line {
+  stroke: #ddd;
+}
+
+.grid path {
+  stroke: #fff;
+}
+
